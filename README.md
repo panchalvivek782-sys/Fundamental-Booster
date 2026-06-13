@@ -54,7 +54,7 @@
 # Collector. Goodbye!
 # ```
 # 
-# 🛠️ Built With
+# ## Built With
 # 
 # * **Python 3** - The core programming language used.
 
