@@ -1,20 +1,20 @@
-﻿# 📋 Personal Data Collector
+﻿#  ##Personal Data Collector
 # 
 # Welcome to the **Personal Data Collector**! This is a simple, interactive Python command-line tool. It asks for a few basic details, processes them, and shows you some cool behind-the-scenes data like data types and memory locations.
 # 
-# ✨ Features
+#  ##Features
 # 
 # * **User Friendly**: Interactive prompts guide you through the process.
 # * **Smart Calculation**: Automatically estimates your birth year based on your age.
 # * **Under the Hood**: Shows the data types and Python memory addresses (`id()`) for your inputs.
 # * **Error Prevention**: Uses `abs()` to make sure numbers like age and height stay positive.
 # 
-# 🚀 How to Run It
+# ## How to Run It
 # 
 # ### Prerequisites
 # Make sure you have **Python 3** installed on your computer.
 # 
-# ### Steps
+# ## Steps
 # 1. **Download the code**: Save the script as `data_collector.py` but here i saved it as project_1.
 # 2. **Open your terminal**: Navigate to the folder where you saved the file.
 # 3. **Run the script**: Type the following command and press Enter:
@@ -23,7 +23,7 @@
 # python data_collector.py
 # ```
 # 
-# 🖥️ Example Output
+# ## Example Output
 # 
 # Here is what it looks like when you run the program:
 # 
